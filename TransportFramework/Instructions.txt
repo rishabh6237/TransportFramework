@@ -1,0 +1,10 @@
+The framework is based on BDD. Following are the instructions for installation and Execution.
+
+Installation:-
+
+1.To run the project, Java is required.
+2. Import the project into any IDE(for eg. Eclipse)
+3. Its a maven based project. After importing, Run a maven clean install to download the jar files.
+
+Execution:-
+1. It uses Junit, so execute the class TripPlannerRunner.java through Junit to run the project.
